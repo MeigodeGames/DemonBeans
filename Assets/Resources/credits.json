@@ -4,19 +4,19 @@
 	"teams": [
 		{
 			"title": "Programmers",
-			"names": [ "Luiz Felipe" ]
+			"names": [ "Felipe Leite", "André Cardoso" ]
 		},
 		{
 			"title": "2D Art",
-			"names": [ "Luiz Felipe" ]
+			"names": [ "Eliane" ]
 		},
 		{
 			"title": "3D Art",
-			"names": [ "Luiz Felipe" ]
+			"names": [ "Dhyogo" ]
 		},
 		{
 			"title": "Localization",
-			"names": [ "Luiz Felipe" ]
+			"names": [ "Felipe Leite" ]
 		},
 		{
 			"title": "Tools",
@@ -24,11 +24,11 @@
 		},
 		{
 			"title": "Special Thanks",
-			"names": [ "Kleber, All students" ]
+			"names": [ "" ]
 		},
 		{
 			"title": "Acknowledgment",
-			"names": [ "Fatec Americana" ]
+			"names": [ "" ]
 		}
 	]
 }
